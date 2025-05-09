@@ -1,0 +1,6 @@
+C:\Users\india\source\repos\AndroidDataExtractor\AndroidDataExtractor\obj\Debug\AndroidDataExtractor.csproj.AssemblyReference.cache
+C:\Users\india\source\repos\AndroidDataExtractor\AndroidDataExtractor\obj\Debug\AndroidDataExtractor.Form1.resources
+C:\Users\india\source\repos\AndroidDataExtractor\AndroidDataExtractor\obj\Debug\AndroidDataExtractor.Properties.Resources.resources
+C:\Users\india\source\repos\AndroidDataExtractor\AndroidDataExtractor\obj\Debug\AndroidDataExtractor.csproj.GenerateResource.cache
+C:\Users\india\source\repos\AndroidDataExtractor\AndroidDataExtractor\obj\Debug\AndroidDataExtractor.csproj.CoreCompileInputs.cache
+C:\Users\india\source\repos\AndroidDataExtractor\AndroidDataExtractor\obj\Debug\AndroidDataExtractor.MainForm.resources

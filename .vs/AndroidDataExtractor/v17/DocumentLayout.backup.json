@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\services\\adbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\services\\adbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\models\\deviceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\models\\deviceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\models\\calllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\models\\calllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|c:\\users\\india\\source\\repos\\androiddataextractor\\androiddataextractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6694732-2616-4C23-AFAA-90B6B1F4B549}|AndroidDataExtractor\\AndroidDataExtractor.csproj|solutionrelative:androiddataextractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\MainForm.Designer.cs*",
+              "RelativeToolTip": "AndroidDataExtractor\\MainForm.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:45:21.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\MainForm.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\MainForm.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\MainForm.cs [Design]*",
+              "RelativeToolTip": "AndroidDataExtractor\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:21:41.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdbServices.cs",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Services\\AdbServices.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\Services\\AdbServices.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Services\\AdbServices.cs",
+              "RelativeToolTip": "AndroidDataExtractor\\Services\\AdbServices.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:12:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceInfo.cs",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\DeviceInfo.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\Models\\DeviceInfo.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\DeviceInfo.cs",
+              "RelativeToolTip": "AndroidDataExtractor\\Models\\DeviceInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:27:57.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CallLog.cs",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\CallLog.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\Models\\CallLog.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\CallLog.cs",
+              "RelativeToolTip": "AndroidDataExtractor\\Models\\CallLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:27:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\Message.cs",
+              "RelativeToolTip": "AndroidDataExtractor\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:27:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Models\\Contact.cs",
+              "RelativeToolTip": "AndroidDataExtractor\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:26:16.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Program.cs",
+              "RelativeDocumentMoniker": "AndroidDataExtractor\\Program.cs",
+              "ToolTip": "C:\\Users\\india\\source\\repos\\AndroidDataExtractor\\AndroidDataExtractor\\Program.cs",
+              "RelativeToolTip": "AndroidDataExtractor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:30:25.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
